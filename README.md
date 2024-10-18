@@ -24,3 +24,4 @@ Optical and mechanical specifications for the AMS-AGY v2 objective (a.k.a King S
 |Parfocal distance |108.15mm   |distance from mounting flange to image plane  |
 |Total length      |113.15mm   |the total length of the objective             |
 |Max diameter      |35mm       |the maximum diameter of the objective         |
+|Mass              |258g       |the mass of the objective                     |
