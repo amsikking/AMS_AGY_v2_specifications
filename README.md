@@ -1,7 +1,8 @@
 # AMS_AGY_v2_specifications
-Optical and mechanical specifications for the AMS-AGY v2 objective (a.k.a King Snout).
 
 <a href="https://doi.org/10.5281/zenodo.14342897"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14342897.svg" alt="DOI"></a>
+
+Optical and mechanical specifications for the AMS-AGY v2 objective (a.k.a King Snout).
 
 ![social_preview](https://github.com/amsikking/AMS_AGY_v2_specifications/blob/main/social_preview.png)
 
