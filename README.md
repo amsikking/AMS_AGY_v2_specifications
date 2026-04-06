@@ -25,7 +25,7 @@ Optical and mechanical specifications for the AMS-AGY v2 objective (a.k.a King S
 |-                       |-                  |-                                             |
 |Tilt range              |0-55 deg           |tilt range enabled by ground glass edge       |
 |Thread                  |M32 x 0.75         |thread type for mounting                      |
-|Parfocal distance       |108.15mm           |distance from mounting flange to image plane  |
-|Total length            |113.15mm           |the total length of the objective             |
-|Max diameter            |35mm               |the maximum diameter of the objective         |
-|Mass                    |258g               |the mass of the objective                     |
+|Parfocal distance       |108.15 mm          |distance from mounting flange to image plane  |
+|Total length            |113.15 mm          |the total length of the objective             |
+|Max diameter            |35 mm              |the maximum diameter of the objective         |
+|Mass                    |258 g              |the mass of the objective                     |
